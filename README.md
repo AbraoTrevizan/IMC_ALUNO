@@ -25,4 +25,4 @@ Versão 1.0
 
 ✒️ Autores:
 
-> Abrão Alves Trevizan - Lista de Exercicios JAVA 4/4
+> Abrão Alves Trevizan - Lista de Exercicios JAVA IMC (BÔNUS GAME)
